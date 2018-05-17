@@ -1,0 +1,13 @@
+{
+  "name": "AirMapsExplorer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "latest",
+    "react": "latest",
+    "react-native-maps": "../"
+  }
+}
